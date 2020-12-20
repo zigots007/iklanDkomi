@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Get christmas T-shirts for fixed prices",
+        "price": "20",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Miami"
+    },
+    {
+        "title": "Apple Iphone for sale",
+        "price": "200",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Colombo"
+    },
+    {
+        "title": "Land for sale",
+        "price": "500000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Mumbai"
+    },
+    {
+        "title": "Samsung Galaxy S2 (Used)",
+        "price": "15000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Colombo 6"
+    },
+    {
+        "title": "2019 GMC Sierra 3500HD for sale",
+        "price": "49806",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Bowie, TX"
+    },
+    {
+        "title": "2019 GMC Sierra 3500HD",
+        "price": "54300",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Yatiyana"
+    },
+    {
+        "title": "2019 Chevrolet Silverado 2500HD for sale in Bowie, TX",
+        "price": "43105",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Matara"
+    },
+    {
+        "title": "Dodge Grand Caravan SE",
+        "price": "20219",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "New York City"
+    },
+    {
+        "title": "2 bedroom terraced house for sale",
+        "price": "275000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Markham Crescent, Dunstable"
+    },
+    {
+        "title": "3 bedroom semi-detached house for sale",
+        "price": "325000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Jerounds, Harlow"
+    },
+    {
+        "title": "KDH for rent",
+        "price": "325000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "New York City"
+    }
+]
