@@ -2,19 +2,19 @@
     {
         "title": "Get christmas T-shirts for fixed prices",
         "price": "20",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/contoh-iklan-umkm.png",
         "location": "Miami"
     },
     {
         "title": "Apple Iphone for sale",
         "price": "200",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "FREE-SERVICE-HINO.png",
         "location": "Colombo"
     },
     {
         "title": "Land for sale",
         "price": "500000",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
         "location": "Mumbai"
     },
     {
@@ -26,13 +26,13 @@
     {
         "title": "2019 GMC Sierra 3500HD for sale",
         "price": "49806",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/mejalipat.jpg",
         "location": "Bowie, TX"
     },
     {
         "title": "2019 GMC Sierra 3500HD",
         "price": "54300",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
         "location": "Yatiyana"
     },
     {
@@ -44,13 +44,13 @@
     {
         "title": "Dodge Grand Caravan SE",
         "price": "20219",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/contoh-promo-umkm.png.jpg",
         "location": "New York City"
     },
     {
         "title": "2 bedroom terraced house for sale",
         "price": "275000",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/mejalipat.jpg",
         "location": "Markham Crescent, Dunstable"
     },
     {
@@ -62,7 +62,7 @@
     {
         "title": "KDH for rent",
         "price": "325000",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
         "location": "New York City"
     }
 ]
