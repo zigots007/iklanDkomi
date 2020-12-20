@@ -1,68 +1,68 @@
 [
     {
-        "title": "Get christmas T-shirts for fixed prices",
-        "price": "20",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/contoh-iklan-umkm.png",
-        "location": "Miami"
-    },
-    {
-        "title": "Apple Iphone for sale",
-        "price": "200",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/FREE-SERVICE-HINO.png",
-        "location": "Colombo"
-    },
-    {
-        "title": "Land for sale",
-        "price": "500000",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
-        "location": "Mumbai"
-    },
-    {
-        "title": "Samsung Galaxy S2 (Used)",
+        "title": "PopCorn Enak Asli",
         "price": "15000",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
-        "location": "Colombo 6"
+        "imageUrl": "https://blambangandev.com/dkomi/assets/contoh-iklan-umkm.png",
+        "location": "Muncar - Banyuwangi"
     },
     {
-        "title": "2019 GMC Sierra 3500HD for sale",
-        "price": "49806",
-        "imageUrl": "https://blambangandev.com/dkomi/assets/mejalipat.jpg",
-        "location": "Bowie, TX"
+        "title": "Bengkel Jaya Subur",
+        "price": "45000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/FREE-SERVICE-HINO.png",
+        "location": "Rogojampi - Banyuwangi"
     },
     {
-        "title": "2019 GMC Sierra 3500HD",
-        "price": "54300",
+        "title": "Segala Furniture Sesuai Pesanan",
+        "price": "1500000",
         "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
-        "location": "Yatiyana"
+        "location": "Kota - Banyuwangi"
     },
     {
-        "title": "2019 Chevrolet Silverado 2500HD for sale in Bowie, TX",
-        "price": "43105",
+        "title": "Jasa Service AC Terbaik",
+        "price": "150000",
         "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
-        "location": "Matara"
+        "location": "Purwoharjo - Banyuwangi"
     },
     {
-        "title": "Dodge Grand Caravan SE",
-        "price": "20219",
+        "title": "Meja Lipat Kantor",
+        "price": "650000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/mejalipat.jpg",
+        "location": "Genteng - Banyuwangi"
+    },
+    {
+        "title": "Furniture Jepara",
+        "price": "2500000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
+        "location": "Kalisat - Jember"
+    },
+    {
+        "title": "Jasa Bongkar Pasang AC",
+        "price": "125000",
+        "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
+        "location": "Songgon - Banyuwangi"
+    },
+    {
+        "title": "Pop Corn",
+        "price": "12000",
         "imageUrl": "https://blambangandev.com/dkomi/assets/contoh-promo-umkm.png",
-        "location": "New York City"
+        "location": "Muncar - Banyuwangi"
     },
     {
-        "title": "2 bedroom terraced house for sale",
+        "title": "Meja Lipat",
         "price": "275000",
         "imageUrl": "https://blambangandev.com/dkomi/assets/mejalipat.jpg",
-        "location": "Markham Crescent, Dunstable"
+        "location": "Kalibaru - Banyuwangi"
     },
     {
-        "title": "3 bedroom semi-detached house for sale",
+        "title": "Jual AC MURAH",
         "price": "325000",
         "imageUrl": "https://blambangandev.com/dkomi/assets/jasaac.jpg",
-        "location": "Jerounds, Harlow"
+        "location": "Wates - Jember"
     },
     {
-        "title": "KDH for rent",
+        "title": "Segala Perabot Rumah",
         "price": "325000",
         "imageUrl": "https://blambangandev.com/dkomi/assets/furniture.jpg",
-        "location": "New York City"
+        "location": "Kota - Banyuwangi"
     }
 ]
