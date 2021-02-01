@@ -41,25 +41,25 @@ Daftar di atas tidak dimaksudkan sebagai suatu daftar yang lengkap dan hanya men
 
 3.1 Data pribadi yang mungkin dikumpulkan DKomI termasuk tetapi tidak terbatas pada:
 
-• nama;
+&#8226; nama;
 
-• alamat email;
+&#8226; alamat email;
 
-• tanggal lahir;
+&#8226; tanggal lahir;
 
-• alamat tagihan;
+&#8226; alamat tagihan;
 
-• rekening bank dan informasi pembayaran;
+&#8226; rekening bank dan informasi pembayaran;
 
-• nomor telepon;
+&#8226; nomor telepon;
 
-• jenis kelamin;
+&#8226; jenis kelamin;
 
-• nomor induk kependudukan;
+&#8226; nomor induk kependudukan;
 
-• informasi lain apapun tentang Pengguna saat Pengguna mendaftarkan diri untuk menggunakan Layanan atau situs web kami, dan saat Pengguna menggunakan Layanan atau situs web, serta informasi yang berkaitan dengan bagaimana Pengguna menggunakan Layanan atau situs web kami; dan
+&#8226; informasi lain apapun tentang Pengguna saat Pengguna mendaftarkan diri untuk menggunakan Layanan atau situs web kami, dan saat Pengguna menggunakan Layanan atau situs web, serta informasi yang berkaitan dengan bagaimana Pengguna menggunakan Layanan atau situs web kami; dan
 
-• seluruh data tentang konten yang digunakan Pengguna.
+&#8226; seluruh data tentang konten yang digunakan Pengguna.
 
 3.2 Apabila Anda tidak ingin kami mengumpulkan informasi/data pribadi yang disebutkan di atas, Anda dapat memilih keluar setiap saat dengan memberitahu Petugas Perlindungan Data kami secara tertulis tentang hal tersebut. Informasi lebih lanjut tentang memilih keluar dapat ditemukan di bagian di bawah ini yang berjudul " Bagaimana Anda dapat memilih keluar, menghapus, meminta akses atau mengubah informasi yang telah Anda berikan kepada kami?" . Akan tetapi harap diperhatikan bahwa memilih keluar dari kami mengumpulkan data pribadi Anda atau menarik izin Anda untuk kami mengumpulkan, menggunakan atau mengolah data pribadi Anda dapat memengaruhi penggunaan Layanan oleh Anda. Sebagai contoh, memilih keluar dari pengumpulan informasi lokasi akan menyebabkan dinonaktifkannya fitur berbasis lokasi.
 
