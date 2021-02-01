@@ -43,7 +43,7 @@ Daftar di atas tidak dimaksudkan sebagai suatu daftar yang lengkap dan hanya men
 
 1. nama;
 
-2. alamat email;
+2. alamat email; 
 
 3. tanggal lahir;
 
